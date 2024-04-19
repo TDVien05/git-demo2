@@ -32,6 +32,7 @@ bool uoc(int n)
 	return se.size()>=3;
 }
 void hello();
+void goodbye();
 int main()
 {
 	int a, b;
